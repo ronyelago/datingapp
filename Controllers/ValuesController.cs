@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using datingapp.api.Data;
+﻿using datingapp.api.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace DatingApp.API.Controllers
 {
@@ -21,9 +19,9 @@ namespace DatingApp.API.Controllers
 
         // GET api/values
         [HttpGet]
-        public async Task<IActionResult> Get()
+        public IActionResult Get()
         {
-            var values = await dataContext.Values.ToListAsync();
+            var values = dataContext.Values.ToList();
 
             return Ok(values);
         }

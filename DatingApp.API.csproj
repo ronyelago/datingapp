@@ -4,6 +4,8 @@
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
   </PropertyGroup>
   <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.0"/>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.0"/>
   </ItemGroup>
