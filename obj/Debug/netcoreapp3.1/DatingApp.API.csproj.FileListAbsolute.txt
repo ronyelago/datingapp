@@ -1,7 +1,6 @@
 C:\workspace\datingapp.api\obj\Debug\netcoreapp3.1\DatingApp.API.csprojAssemblyReference.cache
 C:\workspace\datingapp.api\obj\Debug\netcoreapp3.1\DatingApp.API.AssemblyInfoInputs.cache
 C:\workspace\datingapp.api\obj\Debug\netcoreapp3.1\DatingApp.API.AssemblyInfo.cs
-C:\workspace\datingapp.api\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\workspace\datingapp.api\bin\Debug\netcoreapp3.1\appsettings.json
 C:\workspace\datingapp.api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\workspace\datingapp.api\bin\Debug\netcoreapp3.1\DatingApp.API.exe
